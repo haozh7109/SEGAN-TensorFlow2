@@ -7,4 +7,4 @@ This repository is an implementation of Speech Enhancement Generative Adversaria
 - Original TensorFlow 1.x based implementation can be found from here (https://github.com/santi-pdp/segan). 
 
 
-
+![SEGAN_Generator](SEGAN_Generator.png)
