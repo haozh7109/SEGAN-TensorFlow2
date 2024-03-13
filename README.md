@@ -27,7 +27,21 @@ pip install -r requirements.txt
 ## Instructions
 
 ### Data preparation 
-Prepare the traning/validation/test datasets based on noisy and clean dataset.  
+Prepare the traning/validation/test datasets based on noisy and clean waveform dataset.  
 ```
 Dataset_preparation.py
 ```
+
+### Data preprocessing 
+Preprocessing data with serialization, down-sampling and pre-emphasis.
+```
+Data_preprocess.py
+```
+
+### Model training
+Load the configuration, defined SEGAN model and training execution.
+The training parameters are adjustable in config.json. 
+```
+SEGAN_TrainMaster.py
+```
+
