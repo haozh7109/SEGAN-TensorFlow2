@@ -24,3 +24,10 @@ You can install the required packages via pip:
 ```
 pip install -r requirements.txt
 ```
+## Instructions
+
+### Data preparation 
+Prepare the traning/validation/test datasets based on noisy and clean dataset.  
+```
+Dataset_preparation.py
+```
