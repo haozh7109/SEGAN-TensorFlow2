@@ -1,0 +1,10 @@
+{
+    "batch_size": 120,
+    "num_epochs": 50,
+    "train_data_path": "/SSD/training_set_canteenFB/Data_for_SEGAN/preproc/serialized_train_data",
+    "test_data_path": "/SSD/training_set_canteenFB/Data_for_SEGAN/preproc/serialized_test_data",
+    "output_data_path": "/SSD/training_set_canteenFB/Data_for_SEGAN/output",
+    "model_save_path": "/home/PycharmProjects/pythonProject/Model_Current_Training/SEGAN",
+    "model_weights_save_path": "/home/PycharmProjects/pythonProject/Model_Current_Training/SEGAN/model_weights_saved",
+    "qc_plot": false
+}
