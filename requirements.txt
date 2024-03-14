@@ -3,3 +3,4 @@ scipy==1.11.4
 tensorflow==2.15
 librosa==0.10.1
 tqdm==4.66.1
+soundfile==0.12.1
